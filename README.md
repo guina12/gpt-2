@@ -50,3 +50,25 @@
     speak this in hunger for bread, not in thirst for revenge.
 
 ````
+## 2-Data loader: batches of chunks of data
+
+   ```  Python
+
+    x = train_set[:block_size]
+    y = train_set[1:block_size+1]
+    
+    for t in range(block_size):
+      context = x[:t+1]
+      target  =  y[t]
+      print(f"when the input is {context}  - the target: {target}")
+```
+    when the input is tensor([18])  - the target: 47
+    when the input is tensor([18, 47])  - the target: 56
+    when the input is tensor([18, 47, 56])  - the target: 57
+    when the input is tensor([18, 47, 56, 57])  - the target: 58
+    when the input is tensor([18, 47, 56, 57, 58])  - the target: 1
+    when the input is tensor([18, 47, 56, 57, 58,  1])  - the target: 15
+    when the input is tensor([18, 47, 56, 57, 58,  1, 15])  - the target: 47
+    when the input is tensor([18, 47, 56, 57, 58,  1, 15, 47])  - the target: 58
+    
+```
