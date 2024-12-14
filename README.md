@@ -11,7 +11,7 @@
    ```
     First Citizen:
     Before we proceed any further, hear me speak.
-    
+     
     All:
     Speak, speak.
     
@@ -109,9 +109,9 @@
 
  ```
 
-**3.2 - Text - Generated with  attention mechanism  after **10.000 iterations**
+**3.2 - Text - Generated with  attention mechanism  after **10.000 iterations****
 
-  ``` 
+``` 
 
     But the suforio daight con for my magy lord;
     How that haven I award names app from bring 
