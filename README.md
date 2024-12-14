@@ -62,6 +62,8 @@
       target  =  y[t]
       print(f"when the input is {context}  - the target: {target}")
 ```
+
+  ```
     when the input is tensor([18])  - the target: 47
     when the input is tensor([18, 47])  - the target: 56
     when the input is tensor([18, 47, 56])  - the target: 57
@@ -72,3 +74,36 @@
     when the input is tensor([18, 47, 56, 57, 58,  1, 15, 47])  - the target: 58
     
 ```
+
+## 3 - Hyperparameters Configuration 
+
+  ```
+    batch_size = 64 # how many independent sequences will we process in parallel ?
+    block_size = 64 # what  is the maximun context length for prediction
+    max_iters = 5000
+    eval_interval = 300
+    learning_rate = 3e-4
+    device = 'cuda' if torch.cuda.is_available() else 'cpu'
+    eval_iters = 200
+    n_embd = 120
+    n_head = 8
+    n_layer = 3
+    dropout = 0.2
+```
+
+3.1 - Text - Generated without  attention mechanism with **10.000 iterations**
+
+  ```
+
+   I t that hat pat t hathethat patxbjPiD&Q!athathat t thathat hat t pathathat hat pat t heat's pathat hat's pat's that's t that t t's thathat that's hathat pat het thathathat that 
+   hathet pat theat t t t t that's t t theathat tNw$
+   I hat thet hathat's t heat hat t t's pat t's pat pat theathethathathat's hethathetheathathat thathathathat's theat's MEO:
+   I pat that's thathetheat hat hathat's thathathat's
+
+
+  ```
+
+  ```
+   Loss:0.465354859828949
+ ```
+  
