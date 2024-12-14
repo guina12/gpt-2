@@ -91,7 +91,7 @@
     dropout = 0.2
 ```
 
-**3.1 - Text - Generated without  attention mechanism with after **10.000 iterations** **
+**3.1 - Text - Generated without  attention mechanism with after **10.000 iterations****
 
   ```
 
@@ -109,9 +109,9 @@
 
  ```
 
-** 3.2 - Text - Generated with  attention mechanism  after **10.000 iterations
+**3.2 - Text - Generated with  attention mechanism  after **10.000 iterations**
 
-  ``` Python
+  ``` 
 
     But the suforio daight con for my magy lord;
     How that haven I award names app from bring
