@@ -114,7 +114,7 @@
   ``` 
 
     But the suforio daight con for my magy lord;
-    How that haven I award names app from bring
+    How that haven I award names app from bring 
     Thange o' lordsered, that love in Anst to thee mes
     Whost manyal hidy to your Partar! with lears.
     
