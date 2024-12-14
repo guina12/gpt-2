@@ -189,6 +189,10 @@
 
 ```
 
+```
+ Loss:1.632  
+```
+
 ## 4 - Results:
 
   ![image](https://github.com/user-attachments/assets/72c4a661-09aa-4ee8-b350-096cde1c78c0)
