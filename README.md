@@ -77,7 +77,7 @@
 
 ## 3 - Hyperparameters Configuration 
 
-  ```
+  ``` Python
     batch_size = 64 # how many independent sequences will we process in parallel ?
     block_size = 64 # what  is the maximun context length for prediction
     max_iters = 5000
