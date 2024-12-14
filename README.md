@@ -6,7 +6,7 @@
 
   ![image](https://github.com/user-attachments/assets/1695045a-d311-45cb-948d-2fecb5468871)
 
-1.1 - Text William Shakespeare 
+**1.1 - Text William Shakespeare** 
 
    ```
     First Citizen:
@@ -91,7 +91,7 @@
     dropout = 0.2
 ```
 
-3.1 - Text - Generated without  attention mechanism with **10.000 iterations**
+**3.1 - Text - Generated without  attention mechanism with after **10.000 iterations** **
 
   ```
 
@@ -104,6 +104,98 @@
   ```
 
   ```
+
    Loss:0.465354859828949
+
  ```
+
+** 3.2 - Text - Generated with  attention mechanism  after **10.000 iterations
+
+  ``` Python
+
+    But the suforio daight con for my magy lord;
+    How that haven I award names app from bring
+    Thange o' lordsered, that love in Anst to thee mes
+    Whost manyal hidy to your Partar! with lears.
+    
+    CORIOLIUS:
+    I dome?
+    
+    LEONTESS:
+    Inde 'First reptured tongence; which and though foll
+    You sea, thou haves nood safess implanty trune,
+    For delve o'ern have to svance me our of time
+    Theis sated corriced funtering in my leasoly.
+    Thy comquece with you ceed Hands now,
+    Draistirs. Tearrot, that of thee that is nterelt,
+    Of mart knost my mad; bustendienter; pont leting up
+    my thalks of you thight prelages.
+    
+    SICHARD:
+    I, fear that I see ine on
+    And you them penson this of grefecking,
+    Brest sperpartime ponys.
+    
+    VORIOLIO:
+    A love tald,
+    O, 'Sainst, channot honly charth theree sees.
+    
+    DUKENCE LIZABET:
+    Why boy, Howy no good aiute, saful fa'll Coush hears?
+    
+    Such:
+    Takish'd less, my him to is you, if a what her bast ranks.
+    
+    MENENIUS:
+    No land, nor do: and is brispeak.
+    Alo, thed you't nevy thou hish tear the itle.
+    I is mele too I proy wirn seed the evisutien earl.
+    We with ping all'd nace of law liestrest,
+    Thy unford than blost pose kst nobly comoquech!
+    Yet rough, bestarniof!
+    Arst here me him you are fortue thing dead? one eye
+    In think, your hold givedy the re
+    Three riaged thy atime bloatings.
+    
+    WICK:
+    Must, broward not the-bost, the do the colice.
+    
+    LENCESTIO:
+    Here thou and earting Shainst Spaint;
+    I duke,
+    And well but, dided is the to htheeJs ithanges,
+    Feargive that you weet of anded as me!
+    A fairend, thour doour death! to Remp'd:
+    And, see ever then hath.
+    Osse, plook usetizer; tiftent foor.
+    
+    SANLIO:
+    No, by my hear I consity, and say slall me,
+    And to he and of figred new alliaten not bl I am feed
+    
+    And.
+    Yetak appring matter, not my see rembless.
+    
+    ADY:
+    And had is spy leephat tood your corcirance.
+    
+    BRINCE:
+    Geten chood sarriking a boy, sign the see thours.
+    
+    GLOUCESTER:
+    My wath death are enment, the rinestyfor her
+    To boy oun'son equeon that pail:
+    Show may liff, is muse with dow.
+
+```
+
+## 4 - Results:
+
+  ![image](https://github.com/user-attachments/assets/72c4a661-09aa-4ee8-b350-096cde1c78c0)
+
+    
+
+
+     
+    
   
